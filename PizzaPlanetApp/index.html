@@ -16,13 +16,13 @@
         <h1>Specials for {{ today | date }}</h1>
 
         <h2>Appetizers</h2>
-        <div ng-repeat="appetizer as appetizers" class="appetizers row">
+        <div ng-repeat="appetizer in appetizers" class="appetizers row">
             <div class="item col-md-9">
-                <h3 class="name"> </h3>
-                <p class="description"> </p>
+                <h3 class="name"> {{appetizer.name}}</h3>
+                <p class="description">{{appetizer.description}} </p>
             </div>
             <div class="price col-md-3">
-                <p class="price"> </p>
+                <p class="price">{{appetizer.price}} </p>
             </div>
         </div>
 
