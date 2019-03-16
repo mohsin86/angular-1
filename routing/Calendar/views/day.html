@@ -1,0 +1,13 @@
+<!-- Format a date so it displays in the format "Friday 1/16" -->
+<h2 class="date"> {{eventsData.data | date}} </h2>
+
+<!--
+TODO: Loop through events and display each one with this HTML -->
+
+<div class="event" ng-repeat="event in eventsData.events">
+  <a href="#/event/{{$index}}">
+    <h3 class="name"> {{event.name}} </h3>
+    <p><span class="from"> {{event.from}}  </span> - <span class="to"> {{event.to}} </span></p>
+  </a>
+</div>
+
