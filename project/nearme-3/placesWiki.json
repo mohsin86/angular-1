@@ -1,0 +1,277 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "geosearch": [
+      {
+        "pageid": 30834376,
+        "ns": 0,
+        "title": "Maritime Hotel",
+        "lat": 40.742423,
+        "lon": -74.003813,
+        "dist": 106.3,
+        "primary": ""
+      },
+      {
+        "pageid": 21247728,
+        "ns": 0,
+        "title": "14th Street (IRT Ninth Avenue Line)",
+        "lat": 40.740961111111,
+        "lon": -74.005427777778,
+        "dist": 117.1,
+        "primary": ""
+      },
+      {
+        "pageid": 4308395,
+        "ns": 0,
+        "title": "Chelsea Market",
+        "lat": 40.7425,
+        "lon": -74.006111111111,
+        "dist": 120.1,
+        "primary": ""
+      },
+      {
+        "pageid": 43238933,
+        "ns": 0,
+        "title": "The Cooler (night club)",
+        "lat": 40.741346,
+        "lon": -74.006352,
+        "dist": 138.9,
+        "primary": ""
+      },
+      {
+        "pageid": 35660642,
+        "ns": 0,
+        "title": "Highline Ballroom",
+        "lat": 40.743,
+        "lon": -74.0059,
+        "dist": 145.6,
+        "primary": ""
+      },
+      {
+        "pageid": 12464693,
+        "ns": 0,
+        "title": "Fulton Houses",
+        "lat": 40.74325,
+        "lon": -74.003972222222,
+        "dist": 165.8,
+        "primary": ""
+      },
+      {
+        "pageid": 29871283,
+        "ns": 0,
+        "title": "111 Eighth Avenue",
+        "lat": 40.741388888889,
+        "lon": -74.003055555556,
+        "dist": 166.6,
+        "primary": ""
+      },
+      {
+        "pageid": 6968351,
+        "ns": 0,
+        "title": "Callen-Lorde Community Health Center",
+        "lat": 40.743054,
+        "lon": -74.003147,
+        "dist": 193,
+        "primary": ""
+      },
+      {
+        "pageid": 30232082,
+        "ns": 0,
+        "title": "Our Lady of Guadalupe at St. Bernard Church (Manhattan)",
+        "lat": 40.740194444444,
+        "lon": -74.004166666667,
+        "dist": 203,
+        "primary": ""
+      },
+      {
+        "pageid": 4562259,
+        "ns": 0,
+        "title": "New York City Lab School for Collaborative Studies",
+        "lat": 40.742398,
+        "lon": -74.002566,
+        "dist": 203,
+        "primary": ""
+      },
+      {
+        "pageid": 6470278,
+        "ns": 0,
+        "title": "New York City Museum School",
+        "lat": 40.742398,
+        "lon": -74.002566,
+        "dist": 203,
+        "primary": ""
+      },
+      {
+        "pageid": 46744285,
+        "ns": 0,
+        "title": "New York Dream Center",
+        "lat": 40.7425,
+        "lon": -74.0025,
+        "dist": 211.5,
+        "primary": ""
+      },
+      {
+        "pageid": 37265806,
+        "ns": 0,
+        "title": "Hogs and Heifers",
+        "lat": 40.74101,
+        "lon": -74.00724,
+        "dist": 222.5,
+        "primary": ""
+      },
+      {
+        "pageid": 19031389,
+        "ns": 0,
+        "title": "Humanities Preparatory Academy",
+        "lat": 40.743272,
+        "lon": -74.002889,
+        "dist": 225.3,
+        "primary": ""
+      },
+      {
+        "pageid": 50024243,
+        "ns": 0,
+        "title": "Stray Kat Gallery",
+        "lat": 40.743115,
+        "lon": -74.00724,
+        "dist": 237.1,
+        "primary": ""
+      },
+      {
+        "pageid": 12682586,
+        "ns": 0,
+        "title": "Notre Dame School (Manhattan)",
+        "lat": 40.739722222222,
+        "lon": -74.004444444444,
+        "dist": 248.9,
+        "primary": ""
+      },
+      {
+        "pageid": 42352404,
+        "ns": 0,
+        "title": "Murray Guy gallery",
+        "lat": 40.74397,
+        "lon": -74.00618,
+        "dist": 250.9,
+        "primary": ""
+      },
+      {
+        "pageid": 1720658,
+        "ns": 0,
+        "title": "Meatpacking District, Manhattan",
+        "lat": 40.740277777778,
+        "lon": -74.006944444444,
+        "dist": 252.3,
+        "primary": ""
+      },
+      {
+        "pageid": 22577454,
+        "ns": 0,
+        "title": "Bayard Rustin Educational Complex",
+        "lat": 40.743333333333,
+        "lon": -74.0025,
+        "dist": 254.9,
+        "primary": ""
+      },
+      {
+        "pageid": 4070386,
+        "ns": 0,
+        "title": "Palm Pictures",
+        "lat": 40.740957222222,
+        "lon": -74.002118611111,
+        "dist": 258,
+        "primary": ""
+      },
+      {
+        "pageid": 20754846,
+        "ns": 0,
+        "title": "Hotel Gansevoort",
+        "lat": 40.739728,
+        "lon": -74.005993,
+        "dist": 262.1,
+        "primary": ""
+      },
+      {
+        "pageid": 28234236,
+        "ns": 0,
+        "title": "New York Savings Bank",
+        "lat": 40.74,
+        "lon": -74.003055555556,
+        "dist": 265.2,
+        "primary": ""
+      },
+      {
+        "pageid": 43989577,
+        "ns": 0,
+        "title": "Mineshaft (gay club)",
+        "lat": 40.74056,
+        "lon": -74.007583,
+        "dist": 273,
+        "primary": ""
+      },
+      {
+        "pageid": 44458236,
+        "ns": 0,
+        "title": "Chelsea Modern",
+        "lat": 40.744514,
+        "lon": -74.005516,
+        "dist": 291.6,
+        "primary": ""
+      },
+      {
+        "pageid": 39350881,
+        "ns": 0,
+        "title": "The Standard, High Line",
+        "lat": 40.7409,
+        "lon": -74.0081,
+        "dist": 293.3,
+        "primary": ""
+      },
+      {
+        "pageid": 12721547,
+        "ns": 0,
+        "title": "Tenjune",
+        "lat": 40.739966,
+        "lon": -74.007372,
+        "dist": 302.3,
+        "primary": ""
+      },
+      {
+        "pageid": 51157769,
+        "ns": 0,
+        "title": "459 West 18th Street",
+        "lat": 40.744583333333,
+        "lon": -74.005833333333,
+        "dist": 305,
+        "primary": ""
+      },
+      {
+        "pageid": 7023043,
+        "ns": 0,
+        "title": "14th Street/Eighth Avenue (New York City Subway)",
+        "lat": 40.739779,
+        "lon": -74.002533,
+        "dist": 311.6,
+        "primary": ""
+      },
+      {
+        "pageid": 19182524,
+        "ns": 0,
+        "title": "Bellwether Gallery",
+        "lat": 40.74486,
+        "lon": -74.00622,
+        "dist": 343.9,
+        "primary": ""
+      },
+      {
+        "pageid": 15037534,
+        "ns": 0,
+        "title": "White Columns",
+        "lat": 40.73885,
+        "lon": -74.004258333333,
+        "dist": 347.1,
+        "primary": ""
+      }
+    ]
+  }
+}
