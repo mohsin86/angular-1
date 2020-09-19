@@ -1,0 +1,17 @@
+<div class="row">
+    <div class="col-xs-4">
+        <ul class="list-group">
+            <li class="list-group-item"
+                *ngFor="let user of users"
+            >
+                <a
+                        [routerLink]="['/users', user.id, user.name]"
+                        [queryParams]="{status: user.status}"
+                >{{user.name}}</a>
+            </li>
+        </ul>
+    </div>
+    <div class="col-xs-6">
+        <router-outlet></router-outlet>
+    </div>
+</div>

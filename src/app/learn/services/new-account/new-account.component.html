@@ -1,0 +1,21 @@
+<div class="row">
+    <div class="col-xs-12">
+        <div class="row">
+            <div class="col-xs-5">
+                <label for="accountsName">Accouns name</label>
+                <input type="text" id="accountsName" class="form-control" value="" #accountsName>
+            </div>
+            <div class="col-xs-5">
+                <label for="accountsStatus">Accouns Status</label>
+                <select id="accountsStatus" class="form-control" #accountsStatus>
+                    <option value="Active">Active</option>
+                    <option value="InActive">InActive</option>
+                    <option value="Unknown">Unknown</option>
+                </select>
+            </div>
+            <div class="col-xs-2">
+                <button class="btn btn-primary form-control" (click)="createAccounts(accountsName, accountsStatus)">Submit</button>
+            </div>
+        </div>
+    </div>
+</div>

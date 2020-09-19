@@ -1,0 +1,20 @@
+<div class="row">
+    <div class="col-md-4">
+       <app-recipe-list></app-recipe-list>
+    </div>
+    <div class="col-md-5">
+        <app-recipe-detail [showDetails]="recipeDetails"></app-recipe-detail>
+    </div>
+    <div class="col-md-3">
+        <ul class="list-group">
+            <a
+                    class="list-group-item"
+                    style="cursor: pointer"
+                    *ngFor="let ingredient of ingredients"
+            >
+                {{ingredient.ingredientsName}} ({{ingredient.ingredientsAmount}})
+            </a>
+        </ul>
+    </div>
+
+</div>

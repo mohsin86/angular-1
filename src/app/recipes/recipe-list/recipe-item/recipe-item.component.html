@@ -1,0 +1,16 @@
+<a
+        href=""
+        class="list-group-item clearfix"
+        (click)="onClickGetDetails($event,i)"
+
+>
+    <div class="recipe-content-width pull-left">
+        <h4 class="list-group-item-heading">{{recipe.name}}</h4>
+        <p class="lest-group-item-text">{{recipe.description}}</p>
+    </div>
+    <div class="pull-right">
+        <img
+                [src]="recipe.imagePath"
+                alt="" class="img-responsive" style="max-height: 50px;">
+    </div>
+</a>

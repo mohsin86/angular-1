@@ -1,0 +1,18 @@
+<div class="row">
+    <div class="col-xs-12">
+        <app-cockpit (serverCreated)="onServerAdded($event)"></app-cockpit>
+        <button class="btn bg-success" (click)="onSave()">Save(Http Post)</button>
+        <button class="btn btn-primary" (click)="onGet()">Get (Http Get)</button>
+    </div>
+</div>
+
+<hr>
+
+<div class="row">
+    <div class="col-xs-12">
+        <app-server-element
+                *ngFor="let list of serverLists"
+                [whileListServer]="list"
+        ></app-server-element>
+    </div>
+</div>

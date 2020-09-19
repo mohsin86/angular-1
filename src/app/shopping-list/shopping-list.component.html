@@ -1,0 +1,20 @@
+
+
+<div class="row">
+    <div class="col-xs-12">
+        <app-shopping-edit></app-shopping-edit>
+        <hr>
+        <ul class="list-group">
+            <a
+                    class="list-group-item"
+                    style="cursor: pointer"
+                    *ngFor="let shopping of shoppings; let i = index"
+            >
+                {{shopping.ingredientsName}} ({{shopping.ingredientsAmount}})
+                <button type="button" class="close" (click)="removeIngredients(i)" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </a>
+        </ul>
+    </div>
+</div>
